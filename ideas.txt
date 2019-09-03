@@ -1,0 +1,32 @@
+Potluck Game Jam
+with ZDMGames
+
+(Working) Title: Breath of Life
+
+The themes are
+
+Lasers
+Breath
+Random
+
+- Top Down shooter where the diety give a life to human beings. (Raccoon_JS)
+-- and enemies are shooting lasers.
+
+more ideas:
+diety (from jiegonator)
+- gives life to multiple types of lifeforms
+- skeleton is just a blank template
+- can 'accidentally' create a ghost
+-- something she absorbs which affects her breath. And if she isn't careful enough and accidentally absorbs this thing and fires off her breath, she'll create a ghost.
+The damage would change the quality of her breath. (Raccoon_JS)
+damage by laser.
+the damage give the goddess a duration to shoot bad breath.
+So, when she gets hit, there is a timeframe that her breath's effect is actually to create ghosts? (jiegonator)
+(Raccoon_JS)
+yes - unless if there is an item that could heal her and purify her breath.
+Left mouse button - Attack
+Right mouse button - give life
+the flower she resurrected - that could be her healing item.
+(jiegonator)
+within her 'bad breath' timeframe. let's make her breath uncontrollable
+So it's like, the goddess becomes a demoness when hit.
