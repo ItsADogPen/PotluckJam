@@ -12,7 +12,7 @@ Random
 - Top Down shooter where the diety give a life to human beings. (Raccoon_JS)
 -- and enemies are shooting lasers.
 
-more ideas:
+ideas:
 diety (from jiegonator)
 - gives life to multiple types of lifeforms
 - skeleton is just a blank template
@@ -30,3 +30,11 @@ the flower she resurrected - that could be her healing item.
 (jiegonator)
 within her 'bad breath' timeframe. let's make her breath uncontrollable
 So it's like, the goddess becomes a demoness when hit.
+
+(jiegonator)
+short term, long term goals
+- earn drops to unlock abilities temporarily.
+- earn a different type of drop to unlock those abilities permanently
+
+abilities
+- need 'energy' drops for them to be activated.
