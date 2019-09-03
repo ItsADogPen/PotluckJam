@@ -36,5 +36,8 @@ short term, long term goals
 - earn drops to unlock abilities temporarily.
 - earn a different type of drop to unlock those abilities permanently
 
+drops
+- are missable, so some abilities are missable. finishing the game without unlocking some abilities.
+
 abilities
 - need 'energy' drops for them to be activated.
