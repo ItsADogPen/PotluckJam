@@ -41,3 +41,20 @@ drops
 
 abilities
 - need 'energy' drops for them to be activated.
+
+(jiegonator)
+So when the player clears a level with more ghosts, it counts towards the demoness ending.
+And then vice versa, right?
+Pacifist Run -> Good ending?
+
+(Raccoon_JS)
+give life to skeleton; more peace.
+dodge lasers from the ghosts.
+Undertale meets Hotline Miami
+
+(jiegonator)
+so the premise could be like the player's ascenscion.
+Should we call it
+Immortal Ascenscion
+- or - 
+Spiritual Ascenscion
