@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Characters/CharacterTemplate.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Characters/Goddess/CharacterGoddess.gd" type="Script" id=2]
+
+[node name="CharacterGoddess" instance=ExtResource( 1 )]
+script = ExtResource( 2 )
+
