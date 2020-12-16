@@ -1,0 +1,96 @@
+Potluck Game Jam
+with ZDMGames
+
+(Working) Title: Breath of Life
+
+The themes are
+
+Lasers
+Breath
+Random
+
+- Top Down shooter where the diety give a life to human beings. (Raccoon_JS)
+-- and enemies are shooting lasers.
+
+ideas:
+diety (from jiegonator)
+- gives life to multiple types of lifeforms
+- skeleton is just a blank template
+- can 'accidentally' create a ghost
+-- something she absorbs which affects her breath. And if she isn't careful enough and accidentally absorbs this thing and fires off her breath, she'll create a ghost.
+The damage would change the quality of her breath. (Raccoon_JS)
+damage by laser.
+the damage give the goddess a duration to shoot bad breath.
+So, when she gets hit, there is a timeframe that her breath's effect is actually to create ghosts? (jiegonator)
+(Raccoon_JS)
+yes - unless if there is an item that could heal her and purify her breath.
+Left mouse button - Attack
+Right mouse button - give life
+the flower she resurrected - that could be her healing item.
+(jiegonator)
+within her 'bad breath' timeframe. let's make her breath uncontrollable
+So it's like, the goddess becomes a demoness when hit.
+
+(jiegonator)
+short term, long term goals
+- earn drops to unlock abilities temporarily.
+- earn a different type of drop to unlock those abilities permanently
+
+drops
+- are missable, so some abilities are missable. finishing the game without unlocking some abilities.
+
+abilities
+- need 'energy' drops for them to be activated.
+
+(jiegonator)
+So when the player clears a level with more ghosts, it counts towards the demoness ending.
+And then vice versa, right?
+Pacifist Run -> Good ending?
+
+(Raccoon_JS)
+give life to skeleton; more peace.
+dodge lasers from the ghosts.
+Undertale meets Hotline Miami
+
+(jiegonator)
+so the premise could be like the player's ascenscion.
+Should we call it
+Immortal Ascenscion
+- or - 
+Spiritual Ascenscion
+
+(from HandOfDoom)
+Neutral ending - use the demonic power moderately.
+If I may float some ideas as well, what if the goddess being hit filled a gauge that you could use as opposed to her automatically becoming a demoness on hit? If you choose to activate the gauge it makes her very strong but sets her towards the bad ending?
+
+So instead of skeletons, or just skeletons the game could bait the player into choosing to not act very pacifistic by having "enemies" in people that the goddess is supposed to be helping, but that throw stones at her, try to harm her, summon up creatures to attack her, etc.
+
+so it'd be more of an arthouse kind of game that explores what it's like to be a god with bad worshippers. At what point do you become a devil?
+
+(HandOfDoom)
+the evil stuff could be summoned by the people that she was supposed to be helping, would be a cool moral dilemma imo. Does she just banish the demons or does she outright torch the humans too? It could add to the gameplay in that your banishing powers don't hurt humans, but they can still hurt you.
+
+but your dark powers can
+so pacifist would be avoiding things like gunfire, arrows, etc. while fighting off the evil spirits
+neutral would be a mix
+
+evil route would be fighting evil spirits and the humans, and then gaining dark spirit allies and eventually fighting only humans.
+
+The gauge could be like a Rage of Sparta in GOW deal. You use it, it's over, you go back to normal. Killing humans makes it last longer. However, there's a separate stat. A corruption stat, that's dependent on how many times she's used the demonic powers.
+
+And if you get too corrupted you get perma locked into demonic mode
+
+Once you get perma locked into demonic mode, it makes it so that the last level is her basically killing a village full of people indiscriminately?
+
+(Raccoon_JS)
+If the gauge turn to demonic, you have an option to awaken her demonic power and strengthen your attack.
+During her demonic mode, flowers become her healing items - while human blood becomes can keep her demonic duration.
+
+(demonic):
+- If you get damage from enemies (ghost or asshole humans).
+- drinks human blood
+- attack humans
+(angelic):
+- giving life to lost spirits (skeletons or dead flowers)
+- picking flowers
+- forgive(?) corrupted humans
